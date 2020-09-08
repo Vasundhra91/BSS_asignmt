@@ -1,0 +1,62 @@
+[{"gender": "Female", "name": "Sandra", "city": "Las Vegas", "car": "Audi A4"},
+ {"gender": "Male", "name": "Paul", "city": "Paris", "car": "Nissan Altima"},
+{"gender": "Male", "name": "Mark", "city": "Paris", "car": "Honda Accord"},
+{"gender": "Male", "name": "Paul", "city": "Paris", "car": "Nissan Altima"},
+ {"gender": "Female", "name": "Linda", "city": "Austin", "car": "Toyota Corolla"},
+  {"gender": "Male", "name": "Robert", "city": "Las Vegas", "car": "Chevrolet Cruze"}
+,{"gender": "Female", "name": "Lisa", "city": "London", "car": "BMW 750"}
+, {"gender": "Male", "name": "Mark", "city": "Chicago", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "Thomas", "city": "Rio de Janeiro", "car": "Honda Accord"}
+,{"gender": "Male", "name": "Robert", "city": "Las Vegas", "car": "Honda Civic"}
+, {"gender": "Female", "name": "Betty", "city": "Paris", "car": "Honda Civic"}
+, {"gender": "Male", "name": "Robert", "city": "Los Angeles", "car": "Honda Accord"}
+, {"gender": "Male", "name": "William", "city": "Los Angeles", "car": "Honda Civic"}
+, {"gender": "Male", "name": "Mark", "city": "Austin", "car": "Nissan Altima"}
+, {"gender": "Female", "name": "Mary", "city": "Chicago", "car": "BMW 750"}
+, {"gender": "Female", "name": "Barbara", "city": "Paris", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "James", "city": "Austin", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "Mark", "city": "New York", "car": "Nissan Altima"}
+, {"gender": "Female", "name": "Barbara", "city": "Las Vegas", "car": "Honda Accord"}
+,{"gender": "Male", "name": "Robert", "city": "Paris", "car": "Audi A4"}
+, {"gender": "Male", "name": "David", "city": "Austin", "car": "Honda Civic"}
+,{"gender": "Female", "name": "Linda", "city": "Chicago", "car": "Audi A4"}
+, {"gender": "Female", "name": "Betty", "city": "Paris", "car": "Honda Accord"}
+,{"gender": "Male", "name": "David", "city": "New York", "car": "Honda Accord"}
+,{"gender": "Male", "name": "Robert", "city": "Las Vegas", "car": "Honda Accord"}
+, {"gender": "Male", "name": "David", "city": "Chicago", "car": "Chevrolet Cruze"}
+,{"gender": "Female", "name": "Sharon", "city": "London", "car": "Nissan Altima"}
+,{"gender": "Female", "name": "Barbara", "city": "Tokyo", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "Mark", "city": "Las Vegas", "car": "Toyota Corolla"}
+, {"gender": "Male", "name": "Paul", "city": "Paris", "car": "Kia Optima"}
+,{"gender": "Male", "name": "William", "city": "New York", "car": "Honda Civic"},
+{"gender": "Female", "name": "Sandra", "city": "Las Vegas", "car": "Audi A4"},
+ {"gender": "Male", "name": "Paul", "city": "Paris", "car": "Nissan Altima"},
+{"gender": "Male", "name": "Mark", "city": "Paris", "car": "Honda Accord"},
+{"gender": "Male", "name": "Paul", "city": "Paris", "car": "Nissan Altima"},
+ {"gender": "Female", "name": "Linda", "city": "Austin", "car": "Toyota Corolla"},
+  {"gender": "Male", "name": "Robert", "city": "Las Vegas", "car": "Chevrolet Cruze"}
+,{"gender": "Female", "name": "Lisa", "city": "London", "car": "BMW 750"}
+, {"gender": "Male", "name": "Mark", "city": "Chicago", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "Thomas", "city": "Rio de Janeiro", "car": "Honda Accord"}
+,{"gender": "Male", "name": "Robert", "city": "Las Vegas", "car": "Honda Civic"}
+, {"gender": "Female", "name": "Betty", "city": "Paris", "car": "Honda Civic"}
+, {"gender": "Male", "name": "Robert", "city": "Los Angeles", "car": "Honda Accord"}
+, {"gender": "Male", "name": "William", "city": "Los Angeles", "car": "Honda Civic"}
+, {"gender": "Male", "name": "Mark", "city": "Austin", "car": "Nissan Altima"}
+, {"gender": "Female", "name": "Mary", "city": "Chicago", "car": "BMW 750"}
+, {"gender": "Female", "name": "Barbara", "city": "Paris", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "James", "city": "Austin", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "Mark", "city": "New York", "car": "Nissan Altima"}
+, {"gender": "Female", "name": "Barbara", "city": "Las Vegas", "car": "Honda Accord"}
+,{"gender": "Male", "name": "Robert", "city": "Paris", "car": "Audi A4"}
+, {"gender": "Male", "name": "David", "city": "Austin", "car": "Honda Civic"}
+,{"gender": "Female", "name": "Linda", "city": "Chicago", "car": "Audi A4"}
+, {"gender": "Female", "name": "Betty", "city": "Paris", "car": "Honda Accord"}
+,{"gender": "Male", "name": "David", "city": "New York", "car": "Honda Accord"}
+,{"gender": "Male", "name": "Robert", "city": "Las Vegas", "car": "Honda Accord"}
+, {"gender": "Male", "name": "David", "city": "Chicago", "car": "Chevrolet Cruze"}
+,{"gender": "Female", "name": "Sharon", "city": "London", "car": "Nissan Altima"}
+,{"gender": "Female", "name": "Barbara", "city": "Tokyo", "car": "Toyota Corolla"}
+,{"gender": "Male", "name": "Mark", "city": "Las Vegas", "car": "Toyota Corolla"}
+, {"gender": "Male", "name": "Paul", "city": "Paris", "car": "Kia Optima"}
+,{"gender": "Male", "name": "William", "city": "New York", "car": "Honda Civic"}]
